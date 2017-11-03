@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VR Teleport Component",
+	"Description": "VR teleport component for HTC Vive",
+	"Category": "Other",
+	"CreatedBy": "Federico Saldarini",
+	"CreatedByURL": "0xfede.io",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "VRTeleport",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
