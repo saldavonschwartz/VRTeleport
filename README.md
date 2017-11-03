@@ -27,4 +27,4 @@ you can find a quick start with images [here][l4].
 [l1]: https://www.linkedin.com/in/federicosaldarini
 [l2]: http://0xfede.io
 [l3]: https://github.com/saldavonschwartz
-[l4]: http://0x.fede.io
+[l4]: http://0xfede.makina.us/index.php/project/teleport-component
