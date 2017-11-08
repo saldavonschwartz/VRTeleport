@@ -22,7 +22,7 @@ The component also handles replication / authority for multiplayer scenarios and
 you can find a quick start with images [here][l4].
 
 
-[LinkedIn][l1] | [Blog][l2] | [GitHub][l3]
+[LinkedIn][l1] | [0xfede.io][l2] | [GitHub][l3]
 
 [l1]: https://www.linkedin.com/in/federicosaldarini
 [l2]: http://0xfede.io
